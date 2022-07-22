@@ -1,0 +1,2 @@
+module leetcode_26 {
+}
